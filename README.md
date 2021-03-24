@@ -1,17 +1,11 @@
 <p align="center">
-  <a href="https://www.cloudpanel.io" target="_blank">
-    <img src="https://www.cloudpanel.io/assets/images/logo.svg?v=0.0.2">
+  <a href="https://www.mgt-commerce.com/cms/mgt-development-environment" target="_blank">
+    <img src="/assets/images/hero.png?v=0.0.1">
   </a>
 </p>
 
 [The MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) is a Local Development Environment 
 based on **Docker** to make the development of Magento and other PHP applications easier.
-
-<p align="center">
-  <a href="https://www.mgt-commerce.com/cms/mgt-development-environment" target="_blank">
-    <img src="/assets/images/hero.png?v=0.0.1">
-  </a>
-</p>
 
 ## :boom: Highlights
 
