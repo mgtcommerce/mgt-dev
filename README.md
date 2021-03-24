@@ -5,7 +5,7 @@
 </p>
 
 [The MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) is a Local Development Environment 
-based on **Docker** to make the development of Magento and other PHP applications easier.
+based on **Docker** to make the development of **Magento** and other **PHP Applications** easier.
 
 ## :rocket: Technology Stack
 
@@ -19,14 +19,6 @@ based on **Docker** to make the development of Magento and other PHP application
 - **Redis 5**
 - **RabbitMQ 3.7**
 - [Get Started](https://www.mgt-commerce.com/docs/mgt-development-environment/installation)
-
-## :floppy_disk: Installation
-
-* [Amazon Web Services](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-aws)
-* [Digital Ocean](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-digital-ocean-marketplace)
-* [Google Cloud](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-google-cloud)
-* [Microsoft Azure](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-microsoft-azure)
-* [Other](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-other)
 
 ## :green_book: Documentation
 
