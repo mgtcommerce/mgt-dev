@@ -38,6 +38,6 @@ based on **Docker** to make the development of Magento and other PHP application
 * Write about **MGT Development Environment** on platforms like **Twitter**, **Facebook** or **LinkedIn**
 * Follow us on [Twitter](https://twitter.com/mgtcommerce) and retweet our tweets
 * Write a **Blog** post about **MGT Development Environment**
-* Give us [Feedback](https://www.mgt-commerce.com/contacts/) to improve **CloudPanel**
+* Give us [Feedback](https://www.mgt-commerce.com/contacts/) to make it better
 * Report [Bugs](https://github.com/mgtcommerce/mgt-dev/issues) on GitHub
 * [Get in touch with us](https://www.mgt-commerce.com/contacts/) if you have other ideas
