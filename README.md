@@ -24,7 +24,7 @@ based on **Docker** to make the development of **Magento** and other **PHP Appli
 
 ## :green_book: Documentation
 
-[https://www.mgt-commerce.com/docs/mgt-development-environment/introduction](https://www.mgt-commerce.com/docs/mgt-development-environment/introduction)
+[https://www.mgt-commerce.com/docs/mgt-development-environment/n](https://www.mgt-commerce.com/docs/mgt-development-environment/)
 
 ## :sparkling_heart: Support This Project
 
