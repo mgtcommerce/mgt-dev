@@ -31,7 +31,6 @@ based on **Docker** to make the development of Magento and other PHP application
 ## :green_book: Documentation
 
 [https://www.mgt-commerce.com/docs/mgt-development-environment/introduction](https://www.mgt-commerce.com/docs/mgt-development-environment/introduction)
-l 2](https://github.com/cloudpanel-io/cloudpanel-ce/projects) - **ETA: Q3 2021** 🥳
 
 ## :sparkling_heart: Support This Project
 
