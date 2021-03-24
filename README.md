@@ -7,18 +7,17 @@
 [The MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) is a Local Development Environment 
 based on **Docker** to make the development of Magento and other PHP applications easier.
 
-## :boom: Highlights
+## :rocket: Technology Stack
 
-* **FREE**
-* **Easy to use Control Panel**
-* **Up and running within 60 seconds**
-* **Supports all common PHP Apps**
-* **One-Click Let's Encrypt Certificates**
-* **Multiple PHP Versions**
-* **NGINX Support**
-* **Support for all big clouds**
-* **Cloud Functionalities**
-* **Supports > 10 languages**
+- **Docker**
+- **Debian 10 (Buster)**
+- **PHP 7.1 - 8.0**
+- **NGINX 1.19**
+- **MySQL 8.0**
+- **Elasticsearch 7**
+- **Varnish Cache 6**
+- **Redis 5**
+- **RabbitMQ 3.7**
 
 ## :floppy_disk: Installation
 
